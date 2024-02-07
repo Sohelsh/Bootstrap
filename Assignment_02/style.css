@@ -1,0 +1,104 @@
+#topheader{
+    background-color: ghostwhite;
+}
+#topheader a{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+    
+}
+#navbarNav ul li a{
+    color: aliceblue;
+}
+.dropdown-menu{
+    background-color: rgb(230, 7, 7);
+}
+.dropdown-menu li a{
+    color: black;
+}
+
+/*Start Footer*/
+.fullfooter{
+    background-color: rgb(39, 3, 111);
+}
+.topfooter p{
+    color: aliceblue;
+}
+.topfooter h3{
+    color: aliceblue;
+}
+.topfooter a{
+    color: aliceblue;
+}
+.bottom-footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+/*End Footer*/
+
+/*Start Home Hero Section*/
+.top-hero-section{
+    background-color: rgb(0, 168, 255);
+    color: white;
+}
+.top-hero-section a{
+ color: white;
+ font-weight: 600;
+}
+/*End Home Hero Section*/
+
+.quality-img{
+    width: 140px;
+}
+
+.requirements-section{
+    background-color: rgb(39, 3, 111);
+    color: white;
+}
+/* <!--Start Home Page 5th Section--> */
+.Subscribe-section{
+    background-color: rgb(39, 3, 111);
+    color: white;
+}
+.Subscribe-section .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.Subscribe-section .btn{
+    min-height: 50px;
+    width: 100px;
+    border-radius: 0 20px 20px 0;
+    background: rgb(20, 18, 18);
+    color: white;
+}
+/* <!--End Home Page 5th Section--> */
+
+/* <!--Start Home Page 7th Section--> */
+.client-section{
+ background-color: #f0f0f0;
+}
+/* <!--End Home Page 7th Section--> */
+
+/* <!--Start About Us Page */
+
+.braedcrumb-section{
+    background-color: #e9ecef;
+}
+.address p{
+    font-weight: 600;
+}
+.bar{
+    border-radius: 14px ;
+    color: white;
+    font-weight: 600;
+}
